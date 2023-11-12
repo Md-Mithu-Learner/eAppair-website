@@ -1816,11 +1816,11 @@ select.mobile-device {
 
 .copyrights {
     border-top: 1px dashed rgba(193, 141, 141, 0.1);
-    background-color:  #dfd2d2;
+    background-color:  #ffffff;
     box-sizing: border-box;
     width: 100%;
     text-align: left;
-    padding: 30px 40px;
+    padding: 20px 20px;
     overflow: hidden;
 }
 
@@ -1853,7 +1853,7 @@ select.mobile-device {
 }
 
 .footer-distributed .footer-company-name a{
-	color: #24899b;
+	color: #0000ff;
 }
 
 .footer-distributed .footer-company-name a:hover{
