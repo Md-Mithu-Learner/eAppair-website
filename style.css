@@ -410,7 +410,7 @@ a img.aligncenter {
     background-color: rgba(255, 255, 255);
     display: block;
     left: 0;
-    padding: 20px 40px !important;
+    padding: 05px 07px !important;
     position: relative;
     right: 0;
     top: 0;
@@ -451,14 +451,14 @@ a img.aligncenter {
 
 .header_style_01 .navbar-default .navbar-nav > li a {
 	color: #333333;
-	padding: 15px 15px;
+	padding: 5px 5px;
 }
 
 .header_style_01 .navbar-default .navbar-nav > li a.active{
-	color: #0000ff;
-	box-shadow: 0 10px 20px 0 rgba(5, 16, 44, .15);
-	border-radius: 25px 0px 25px 0px;
-	background: #ffffff;
+	color: #ffffff;
+	box-shadow: 0 5px 10px 0 rgba(5, 16, 44, .15);
+	border-radius: 5px 0px 5px 0px;
+	background: #0000ff;
     ;
 }
 
@@ -466,7 +466,7 @@ a img.aligncenter {
 .header_style_01 .navbar-default .navbar-nav > li:focus a {
     color: #ffffff;
 	box-shadow: 0 10px 20px 0 rgba(5, 16, 44, .15);
-	border-radius: 25px 0px 25px 0px;
+	border-radius: 5px 0px 5px 0px;
 	background: #0000ff;
 }
 
